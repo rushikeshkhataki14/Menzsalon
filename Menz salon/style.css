@@ -1,0 +1,17 @@
+.text-strong{
+    font-family: "Georgia, 'Times New Roman', Times, serif;"
+  }
+  .text-normal{
+    font-family:"'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+  }
+  .mt-15{
+    margin-top: 100px;
+  }
+  .text-color{
+    color: rgb(168, 167, 167);
+  }
+  .border:hover{
+    border-color: yellow;
+  }
+  
+  
